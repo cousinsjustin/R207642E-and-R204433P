@@ -1,9 +1,9 @@
 
 import io 
 
-import upload_video.py as v
+import upload_video as v
 
-import split_video.py as sv
+import split_video as sv
 
 import classify as sst
 
