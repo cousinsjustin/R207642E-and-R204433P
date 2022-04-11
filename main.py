@@ -1,11 +1,12 @@
 
 import io 
 
-import upload_video as v
+import upload_video.py as v
 
-import split_video as sv
+import split_video.py as sv
 
 import classify as sst
+pip install opencv-python
 
 import cv2 as cv
 
