@@ -6,7 +6,7 @@ import upload_video.py as v
 import split_video.py as sv
 
 import classify as sst
-pip install opencv-python
+
 
 import cv2 as cv
 
