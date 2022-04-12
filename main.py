@@ -6,9 +6,7 @@ import os
 #import split_video as sv
 
 #import classify as sst
-direct= "cousinsjustin
-/
-R207642E-R204433P"
+direct= "https://github.com/cousinsjustin/R207642E-R204433P"
 fpath = os.path.join(direct, "upload_video.py")
 v = open(fpath)
 fpat = os.path.join(direct, "split_video.py")
