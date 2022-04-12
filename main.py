@@ -1,12 +1,11 @@
 
 import io 
 import os
-from "https://github.com/cousinsjustin"
 import upload_video as v
 
-from "https://github.com/cousinsjustin" import split_video as sv
+import split_video as sv
 
-from "https://github.com/cousinsjustin" import classify as sst
+import classify as sst
 
 import cv2 as cv
 
