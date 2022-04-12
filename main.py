@@ -1,11 +1,18 @@
 
 import io 
 
-import upload_video as v
+#import upload_video as v
 
-import split_video as sv
+#import split_video as sv
 
-import classify as sst
+#import classify as sst
+fpath = os.path.join(direct, "upload_video.py")
+v = open(fpath)
+fpat = os.path.join(direct, "split_video.py")
+sv = open(fpat)
+fpa = os.path.join(direct, "upload_video.py")
+sst = open(fpa)
+
 
 
 import cv2 as cv
