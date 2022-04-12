@@ -8,11 +8,15 @@ import os
 #import classify as sst
 direct= "https://github.com/cousinsjustin/R207642E-R204433P"
 fpath = os.path.join(direct, "upload_video.py")
-v = open(fpath)
+vt = open(fpath)
+v=vt.read()
+
 fpat = os.path.join(direct, "split_video.py")
-sv = open(fpat)
+svt = open(fpat)
+sv= svt.read()
 fpa = os.path.join(direct, "upload_video.py")
-sst = open(fpa)
+sstt = open(fpa)
+sst= sstt.read()
 
 
 
